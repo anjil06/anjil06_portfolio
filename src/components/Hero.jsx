@@ -37,7 +37,7 @@ repeat={Infinity}
 className="text-cyan-400 text-3xl font-semibold mt-6"
 />
 <p className="mt-8 text-gray-400 leading-8">
-Final Year B.Tech student passionate about creating modern web applications, Flutter apps and AI-powered solutions.
+Final Year B.Tech student passionate about creating modern web applications, Flutter apps and problem solving.
 </p>
 <div className="flex gap-5 mt-10">
 <a
