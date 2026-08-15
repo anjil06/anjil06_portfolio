@@ -44,5 +44,15 @@ export const projects = [
     live: "#",
     image: "/cricball.png",
     category: "flutter"
+  },
+  {
+    id: 6,
+    title: "Events App",
+    description: "Developed a Flutter-based events application with a responsive UI for browsing and managing event information.",
+    tech: ["flutter", "firebase", "node.js","dart"],
+    github: "https://github.com/anjil06/events_app",
+    live: "#",
+    image: "/events_app.png",
+    category: "flutter"
   }
 ];

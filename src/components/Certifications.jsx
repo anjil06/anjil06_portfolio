@@ -13,6 +13,10 @@ const certificates = [
   {
     title: "Flutter Development",
     description: "Mobile App Development using Flutter & Firebase"
+  },
+  {
+    title: "TCS iON Career Edge – Young Professional",
+    description: "Completed training in communication, workplace skills, interview skills, business etiquette, problem-solving, IT fundamentals, and AI."
   }
 ];
 
