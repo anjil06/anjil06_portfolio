@@ -1,3 +1,4 @@
+import { image } from "framer-motion/client";
 
 
 export const projects = [
@@ -25,17 +26,16 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Login App",
-    description:
-      "Flutter authentication application using Shared Preferences to persist login sessions.",
-    tech: ["Flutter", "Shared Preferences"],
-    github: "https://github.com/anjil06",
+    title: "Events App",
+    description: "Developed a Flutter-based events application with a responsive UI for browsing and managing event information.",
+    tech: ["flutter", "firebase", "node.js","dart"],
+    github: "https://github.com/anjil06/events_app",
     live: "#",
-    image: "/login.png",
-    category: "Flutter"
+    image: "/events_app.png",
+    category: "flutter"
   },
   {
-    id: 5,
+    id: 4,
     title: "CricBall",
     description:
       "Modern cricket application displaying match information with a clean user interface.",
@@ -45,14 +45,15 @@ export const projects = [
     image: "/cricball.png",
     category: "flutter"
   },
+  
   {
-    id: 6,
-    title: "Events App",
-    description: "Developed a Flutter-based events application with a responsive UI for browsing and managing event information.",
-    tech: ["flutter", "firebase", "node.js","dart"],
-    github: "https://github.com/anjil06/events_app",
-    live: "#",
-    image: "/events_app.png",
+    id: 5,
+    title: "speed ball",
+    description: "A ball-speed detection app that calculates and displays the speed of a cricket ball.",
+    tech: ["flutter","dart"],
+    github: "https://github.com/anjil06/speed_ball",
+    live: "https://github.com/anjil06/speed_ball/releases/download/V1.0.0/SpeedBall-V1.0.0.apk",
+    image: "/speedball.png",
     category: "flutter"
   }
 ];
